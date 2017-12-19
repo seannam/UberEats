@@ -17,6 +17,7 @@
 		C7229EDC1FE88A1400C4A4D5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7229EDA1FE88A1400C4A4D5 /* LaunchScreen.storyboard */; };
 		C75FFE401FE8C33800949A46 /* MealDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C75FFE3F1FE8C33800949A46 /* MealDetailViewController.swift */; };
 		C75FFE421FE8CCD600949A46 /* CartViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C75FFE411FE8CCD600949A46 /* CartViewController.swift */; };
+		C75FFE441FE8D66A00949A46 /* TrackOrderViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C75FFE431FE8D66A00949A46 /* TrackOrderViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		C7229EDD1FE88A1400C4A4D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C75FFE3F1FE8C33800949A46 /* MealDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealDetailViewController.swift; sourceTree = "<group>"; };
 		C75FFE411FE8CCD600949A46 /* CartViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = CartViewController.swift; path = UberEats/Controllers/CartViewController.swift; sourceTree = SOURCE_ROOT; };
+		C75FFE431FE8D66A00949A46 /* TrackOrderViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrackOrderViewController.swift; sourceTree = "<group>"; };
 		FE6EFEED319FDA464361A929 /* Pods-UberEats.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-UberEats.debug.xcconfig"; path = "Pods/Target Support Files/Pods-UberEats/Pods-UberEats.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -83,6 +85,7 @@
 				C71697571FE896C700E969F9 /* SWRevealViewController.m */,
 				C716975E1FE8A1FE00E969F9 /* MealsViewController.swift */,
 				C75FFE3F1FE8C33800949A46 /* MealDetailViewController.swift */,
+				C75FFE431FE8D66A00949A46 /* TrackOrderViewController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			files = (
 				C7229ED21FE88A1400C4A4D5 /* AppDelegate.swift in Sources */,
 				C716975F1FE8A1FE00E969F9 /* MealsViewController.swift in Sources */,
+				C75FFE441FE8D66A00949A46 /* TrackOrderViewController.swift in Sources */,
 				C71697581FE896C700E969F9 /* SWRevealViewController.m in Sources */,
 				C75FFE401FE8C33800949A46 /* MealDetailViewController.swift in Sources */,
 				C75FFE421FE8CCD600949A46 /* CartViewController.swift in Sources */,
