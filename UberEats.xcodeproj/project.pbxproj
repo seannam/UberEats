@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		C71697581FE896C700E969F9 /* SWRevealViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C71697571FE896C700E969F9 /* SWRevealViewController.m */; };
 		C716975A1FE8980600E969F9 /* RestaurantListingTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C71697591FE8980600E969F9 /* RestaurantListingTableViewController.swift */; };
+		C716975F1FE8A1FE00E969F9 /* MealsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C716975E1FE8A1FE00E969F9 /* MealsViewController.swift */; };
 		C7229ED21FE88A1400C4A4D5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7229ED11FE88A1400C4A4D5 /* AppDelegate.swift */; };
 		C7229ED71FE88A1400C4A4D5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7229ED51FE88A1400C4A4D5 /* Main.storyboard */; };
 		C7229ED91FE88A1400C4A4D5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C7229ED81FE88A1400C4A4D5 /* Assets.xcassets */; };
@@ -20,6 +21,7 @@
 		C71697561FE896C700E969F9 /* SWRevealViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SWRevealViewController.h; sourceTree = "<group>"; };
 		C71697571FE896C700E969F9 /* SWRevealViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SWRevealViewController.m; sourceTree = "<group>"; };
 		C71697591FE8980600E969F9 /* RestaurantListingTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantListingTableViewController.swift; sourceTree = "<group>"; };
+		C716975E1FE8A1FE00E969F9 /* MealsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealsViewController.swift; sourceTree = "<group>"; };
 		C7229ECE1FE88A1400C4A4D5 /* UberEats.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UberEats.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7229ED11FE88A1400C4A4D5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C7229ED61FE88A1400C4A4D5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				C71697591FE8980600E969F9 /* RestaurantListingTableViewController.swift */,
 				C71697561FE896C700E969F9 /* SWRevealViewController.h */,
 				C71697571FE896C700E969F9 /* SWRevealViewController.m */,
+				C716975E1FE8A1FE00E969F9 /* MealsViewController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -169,6 +172,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C7229ED21FE88A1400C4A4D5 /* AppDelegate.swift in Sources */,
+				C716975F1FE8A1FE00E969F9 /* MealsViewController.swift in Sources */,
 				C71697581FE896C700E969F9 /* SWRevealViewController.m in Sources */,
 				C716975A1FE8980600E969F9 /* RestaurantListingTableViewController.swift in Sources */,
 			);
