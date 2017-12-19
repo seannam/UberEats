@@ -21,9 +21,6 @@ class MealsViewController: UITableViewController {
         super.didReceiveMemoryWarning()
     }
 
-    
-
-
 }
 // MARK: - UITableViewDataSource
 
