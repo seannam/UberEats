@@ -14,6 +14,7 @@
 		C7229ED71FE88A1400C4A4D5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7229ED51FE88A1400C4A4D5 /* Main.storyboard */; };
 		C7229ED91FE88A1400C4A4D5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C7229ED81FE88A1400C4A4D5 /* Assets.xcassets */; };
 		C7229EDC1FE88A1400C4A4D5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7229EDA1FE88A1400C4A4D5 /* LaunchScreen.storyboard */; };
+		C75FFE401FE8C33800949A46 /* MealDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C75FFE3F1FE8C33800949A46 /* MealDetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		C7229ED81FE88A1400C4A4D5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C7229EDB1FE88A1400C4A4D5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C7229EDD1FE88A1400C4A4D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C75FFE3F1FE8C33800949A46 /* MealDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealDetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				C71697561FE896C700E969F9 /* SWRevealViewController.h */,
 				C71697571FE896C700E969F9 /* SWRevealViewController.m */,
 				C716975E1FE8A1FE00E969F9 /* MealsViewController.swift */,
+				C75FFE3F1FE8C33800949A46 /* MealDetailViewController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -174,6 +177,7 @@
 				C7229ED21FE88A1400C4A4D5 /* AppDelegate.swift in Sources */,
 				C716975F1FE8A1FE00E969F9 /* MealsViewController.swift in Sources */,
 				C71697581FE896C700E969F9 /* SWRevealViewController.m in Sources */,
+				C75FFE401FE8C33800949A46 /* MealDetailViewController.swift in Sources */,
 				C716975A1FE8980600E969F9 /* RestaurantListingTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
